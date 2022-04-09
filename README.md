@@ -2,8 +2,8 @@
 ---
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
 Telegram RoBot to Upload Links.
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DocPara/thickass)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ds2NbF?referralCode=65uDZn)
 **Features**:
 
 👉 Only Auth Users (AUTH_USERS) Can Use The Bot
