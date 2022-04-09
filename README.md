@@ -2,6 +2,7 @@
 ---
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
 Telegram RoBot to Upload Links.
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DocPara/thickass)
 
 **Features**:
 
